@@ -32,4 +32,4 @@ plt.show()
 ![Screenshot 2024-08-24 083428](https://github.com/user-attachments/assets/67928fcc-0910-4d2c-af7a-5155689a6d33)
 
 # RESULT:
-Thus we have created the python code for plotting the time series of given data.
+Thus the given python program executed in successfully.
